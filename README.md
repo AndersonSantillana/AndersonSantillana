@@ -1,4 +1,4 @@
-# 💫 About Me:- 
+# 💫 About Me:
  Actualmente curso **Bachillerato**
  Me gusta la programación y estoy explorando el mundo del desarrollo de software
 Actualmente estoy en aprendizaje de *programación*
