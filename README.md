@@ -1,5 +1,9 @@
-# 💫 About Me:
-Soy un estudiante en desarrollo de software que esta aprendiento de programación y edición,con habilidades básicas y en aprendizaje de más conocimiento básico y medio
+# 💫 About Me:- 
+ Actualmente curso **Bachillerato**
+ Me gusta la programación y estoy explorando el mundo del desarrollo de software
+Actualmente estoy aprendiendo **programación**
+Me interesa seguir mejorando mis habilidades y crear proyectos propios
+Me motiva aprender cosas nuevas y resolver problemas con código
 
 
 ## 🌐 Socials:
