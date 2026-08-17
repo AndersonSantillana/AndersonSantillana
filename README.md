@@ -1,7 +1,7 @@
 # 💫 About Me:- 
  Actualmente curso **Bachillerato**
  Me gusta la programación y estoy explorando el mundo del desarrollo de software
-Actualmente estoy aprendiendo **programación**
+Actualmente estoy en aprendizaje de *programación*
 Me interesa seguir mejorando mis habilidades y crear proyectos propios
 Me motiva aprender cosas nuevas y resolver problemas con código
 
