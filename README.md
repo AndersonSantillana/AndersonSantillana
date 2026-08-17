@@ -3,7 +3,7 @@
  Me gusta la programación y estoy explorando el mundo del desarrollo de software
 Actualmente estoy en aprendizaje de *programación*
 Me interesa seguir mejorando mis habilidades y crear proyectos propios
-Me motiva aprender cosas nuevas y resolver problemas con código
+Me motiva aprender cosas nuevas y resolver problemas con código.
 
 
 ## 🌐 Socials:
